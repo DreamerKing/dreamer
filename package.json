@@ -1,0 +1,27 @@
+{
+  "name": "dreamer",
+  "version": "1.0.0",
+  "description": "dreamer's blog",
+  "main": "dreamer",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "king"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DreamerKing/dreamer.git"
+  },
+  "keywords": [
+    "dreamer",
+    "king"
+  ],
+  "author": "Dreamer King",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DreamerKing/dreamer/issues"
+  },
+  "homepage": "https://github.com/DreamerKing/dreamer#readme"
+}
