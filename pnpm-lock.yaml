@@ -38,9 +38,6 @@ dependencies:
   hexo-server:
     specifier: ^3.0.0
     version: 3.0.0
-  hexo-theme-butterfly:
-    specifier: ^4.11.0
-    version: 4.11.0
 
 packages:
 
@@ -860,15 +857,6 @@ packages:
       open: 8.4.2
       picocolors: 1.0.0
       serve-static: 1.15.0
-    transitivePeerDependencies:
-      - supports-color
-    dev: false
-
-  /hexo-theme-butterfly@4.11.0:
-    resolution: {integrity: sha512-D4rPeY8445RxsRg0/tCXk5CwYG1ktKHutgLJiIDy/ZYSqIeLgkGOjWQkkgifXDkklBP25Krd6fXUI/NDPu2l2A==}
-    dependencies:
-      hexo-renderer-pug: 3.0.0
-      hexo-renderer-stylus: 3.0.0
     transitivePeerDependencies:
       - supports-color
     dev: false
